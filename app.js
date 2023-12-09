@@ -1,3 +1,5 @@
+//This is the JS FIle for the Random Password Generator Project
+
 const passwordBox = document.getElementById("Password");
 //length variable of the generated password
 const length =15;
